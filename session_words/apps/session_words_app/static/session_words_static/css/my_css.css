@@ -1,0 +1,58 @@
+.wrapper{
+    width: 800px;
+}
+h3{
+    margin: 0px;
+    padding: 0px;
+}
+#form_container{
+    width: 300px;
+    display: inline-block;
+    height: 500px;
+}
+#form_container label{
+    display: inline;
+}
+#form_container p{
+    margin: 10px 0px 10px 0px;
+}
+#form_container #button{
+    background-color: #a0c5fa;
+    border: 2px solid black;
+    box-shadow: 2px black;
+}
+
+#session_container{
+    width: 400px;
+    display: inline-block;
+    border-left: 2px solid black;
+    margin-left: 30px;
+    padding-left: 30px;
+    height: 500px;
+    vertical-align: top;
+}
+#session_container #button{
+    background-color: #ed999a;
+    border: 2px solid black;
+    box-shadow: 2px black;
+    margin-left: 150px;
+}
+
+#session_container .black{
+    color: black;
+}
+#session_container .blue{
+    color: blue;
+}
+#session_container .red{
+    color: red;
+}
+#session_container .green{
+    color: green;
+}
+#session_container #normal{
+    font-size: 10px;
+}
+#session_container #big{
+    font-size: 20px;
+}
